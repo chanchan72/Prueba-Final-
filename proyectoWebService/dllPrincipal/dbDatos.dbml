@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Prueba" Class="dbDatosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=BTAGRUINCOSM\SALIDAS;Initial Catalog=Prueba;Persist Security Info=True;User ID=sa" SettingsObjectName="dllPrincipal.Properties.Settings" SettingsPropertyName="PruebaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Contacto" Member="Contactos">
+    <Type Name="Contacto">
+      <Column Name="idRegistro" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Telefono" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Asunto" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="Mensaje" Type="System.String" DbType="VarChar(350)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

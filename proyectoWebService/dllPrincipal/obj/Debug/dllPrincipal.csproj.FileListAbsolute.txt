@@ -1,0 +1,6 @@
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\dllPrincipal\bin\Debug\dllPrincipal.dll.config
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\dllPrincipal\bin\Debug\dllPrincipal.dll
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\dllPrincipal\bin\Debug\dllPrincipal.pdb
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\dllPrincipal\obj\Debug\dllPrincipal.csprojResolveAssemblyReference.cache
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\dllPrincipal\obj\Debug\dllPrincipal.dll
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\dllPrincipal\obj\Debug\dllPrincipal.pdb

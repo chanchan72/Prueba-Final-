@@ -1,0 +1,8 @@
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\WcfService1\bin\WcfService1.dll.config
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\WcfService1\bin\WcfService1.dll
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\WcfService1\bin\WcfService1.pdb
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\WcfService1\bin\dllPrincipal.dll
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\WcfService1\bin\dllPrincipal.pdb
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\WcfService1\obj\Debug\WcfService1.dll
+c:\users\smateus\documents\visual studio 2013\Projects\proyectoWebService\WcfService1\obj\Debug\WcfService1.pdb
